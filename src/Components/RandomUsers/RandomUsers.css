@@ -1,0 +1,9 @@
+.displayuser{
+    border:  2px solid tomato;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.displayuser img{
+    width:  250px;
+}

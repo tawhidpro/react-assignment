@@ -1,0 +1,10 @@
+.users{
+    display: flex;
+}
+
+.users-info{
+    width: 70%;
+}
+.added-user{
+    width: 30%;
+}
